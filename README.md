@@ -13,6 +13,10 @@
   '._.' _\  /__/  /_ '._.'
     .--`  \ `    /  `--.
            '----' ''')
+    
+    
+    
+    
     https://ascii.co.uk/art
     
 Welcome to **Medusa's Temple**, an interactive text-based game where you navigate a cursed temple to save your loved ones. This is a simple Python game showcasing basic decision-making and storytelling.
