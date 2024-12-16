@@ -1,18 +1,18 @@
 # Medusa Temple Game 🐍  
-     ```       .--,
-           ( (`  ,--.
-      ,--.  ) )\  `) ).--,
-       `) )/ /) ) ( (( (`
-       / /( (.  "-.) )) )
-   ,-.( ( /          / /,--,
-    `) \ ` ==.    .==  ( (`
-    ( (_) ~6~      ~6~ _) )
-     \_ (      )(      )_/
-    ,-,\ \     ^^     /\ ,-.
-   ( (_/ /\    __,   /\ \_) )
-    '._.' _\  /__/  /_ '._.'
-      .--`  \ `    /  `--.
-             '----' ''')  ```
+    print('''     .--,
+        ( (`  ,--.
+   ,--.  ) )\  `) ).--,
+    `) )/ /) ) ( (( (`
+    / /( (.  "-.) )) )
+ ,-.( ( /          / /,--,
+  `) \ ` ==.    .==  ( (`
+  ( (_) ~6~      ~6~ _) )
+   \_ (      )(      )_/
+  ,-,\ \     ^^     /\ ,-.
+ ( (_/ /\    __,   /\ \_) )
+  '._.' _\  /__/  /_ '._.'
+    .--`  \ `    /  `--.
+           '----' ''')
     https://ascii.co.uk/art
     
 Welcome to **Medusa's Temple**, an interactive text-based game where you navigate a cursed temple to save your loved ones. This is a simple Python game showcasing basic decision-making and storytelling.
